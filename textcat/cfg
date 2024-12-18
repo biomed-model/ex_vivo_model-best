@@ -1,0 +1,8 @@
+{
+  "labels":[
+    "ex_vivo",
+    "not_ex_vivo"
+  ],
+  "threshold":0.0,
+  "positive_label":null
+}
